@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/rolling/static/css/main.e49eb21d.css",
+    "main.js": "/rolling/static/js/main.f810e703.js",
+    "static/media/NotoSansKR-ExtraBold.woff2": "/rolling/static/media/NotoSansKR-ExtraBold.ca885fbd8e6e3f2b8d59.woff2",
+    "static/media/NotoSansKR-Bold.woff2": "/rolling/static/media/NotoSansKR-Bold.91fc3067ec9aaa3d50c8.woff2",
+    "static/media/NotoSansKR-Medium.woff2": "/rolling/static/media/NotoSansKR-Medium.895f9ccefe6fba3b2ef7.woff2",
+    "static/media/NotoSansKR-Regular.woff2": "/rolling/static/media/NotoSansKR-Regular.4ab14cc314c52b4f0232.woff2",
+    "static/media/NanumSonPyeonJiCe.woff2": "/rolling/static/media/NanumSonPyeonJiCe.dda873849a7fa62a9af6.woff2",
+    "static/media/NanumMyeongjo.woff2": "/rolling/static/media/NanumMyeongjo.2587a85cf500e60f9838.woff2",
+    "static/media/Pretendard-Regular.subset.woff2": "/rolling/static/media/Pretendard-Regular.subset.e0a855e501f761b58aa8.woff2",
+    "static/media/landing_img_01.png": "/rolling/static/media/landing_img_01.8956f1e370b17c63bfb7.png",
+    "static/media/landing_img_02.png": "/rolling/static/media/landing_img_02.be1ef53189a5779fbda8.png",
+    "static/media/landing_img_01.webp": "/rolling/static/media/landing_img_01.5a123e974faefefe6799.webp",
+    "static/media/error-img.png": "/rolling/static/media/error-img.64a5632fd629be10ec54.png",
+    "static/media/loading-spinner.gif": "/rolling/static/media/loading-spinner.86d352cb50476480895c.gif",
+    "static/media/landing_img_02.webp": "/rolling/static/media/landing_img_02.0120f2aa3b133cd9e086.webp",
+    "static/media/emoji-add-icon.svg": "/rolling/static/media/emoji-add-icon.a2e294c07f0134cb8c44011b7b1fe26f.svg",
+    "static/media/trash-icon.svg": "/rolling/static/media/trash-icon.9b9d80e0da6566d5b8b446e7b7c0c303.svg",
+    "index.html": "/rolling/index.html",
+    "static/media/share-icon.svg": "/rolling/static/media/share-icon.e5a7b1c90657cb55f3ddc4dc493d0517.svg",
+    "static/media/logo-icon.svg": "/rolling/static/media/logo-icon.bbae78be2f47c68a16bc0082f8f2c748.svg",
+    "static/media/arrow_down.svg": "/rolling/static/media/arrow_down.e382a2863594de33d75f07dbd4a158e2.svg",
+    "static/media/arrow_right.svg": "/rolling/static/media/arrow_right.0749b3bdb7df6467995f4b797ee2ec23.svg",
+    "static/media/circle-button-icon.svg": "/rolling/static/media/circle-button-icon.104725d00c7d70ab9fc3549a1733fcbf.svg",
+    "static/media/box-slelected-icon.svg": "/rolling/static/media/box-slelected-icon.968ede139382a600ef498273b420c600.svg",
+    "static/media/card-list-pattern-icon.svg": "/rolling/static/media/card-list-pattern-icon.ef7ec7f5123bb121f914886afbf9de00.svg",
+    "static/media/card-add-button-icon.svg": "/rolling/static/media/card-add-button-icon.ae181a7996f1fbecbba9228e499edcf4.svg",
+    "main.e49eb21d.css.map": "/rolling/static/css/main.e49eb21d.css.map",
+    "main.f810e703.js.map": "/rolling/static/js/main.f810e703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49eb21d.css",
+    "static/js/main.f810e703.js"
+  ]
+}
